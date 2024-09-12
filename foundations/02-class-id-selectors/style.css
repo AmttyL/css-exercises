@@ -1,0 +1,18 @@
+.basic-p {
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    background-color: #f7a1a9;
+}
+.cool-p {
+    font-size: 24px;
+}
+
+#first-id {
+    color: #111fed;
+    font-size: 36px
+}
+
+#second-id {
+    background-color: #afedb3;
+    font-size: 24px;
+    font-weight: 700;
+}
